@@ -1,0 +1,25 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+
+.top-heading {
+  font-family: lobster;
+  color: #0f172a;
+}
+.languageFiltersData-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.repositoryItemContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-self: center;
+  list-style-type: none;
+}

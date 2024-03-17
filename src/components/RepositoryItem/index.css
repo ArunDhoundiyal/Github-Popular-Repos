@@ -1,0 +1,46 @@
+.repo-list-item {
+  background-color: #f8f8ff;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+  width: 250px;
+  border-radius: 8px;
+  overflow: auto;
+}
+
+.logo-heading-container {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.img-style {
+  height: 100px;
+}
+
+.item-name {
+  color: #e73959;
+  font-size: 20px;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 25px;
+}
+
+.count {
+  color: #1e293b;
+  font-weight: bold;
+}
+
+.img-logo {
+  height: 20px;
+}
+
+.align-image {
+  align-self: center;
+  margin-right: 10px;
+}
